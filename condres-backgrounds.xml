@@ -3,6 +3,27 @@
 <wallpapers>
 	<wallpaper deleted="false">
 		<name>Condres Floreal</name>
+		<filename>/usr/share/backgrounds/condres/condres_tux3.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Abstract night</name>
+		<filename>/usr/share/backgrounds/condres/abstract_nigth.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Abstract</name>
+		<filename>/usr/share/backgrounds/condres/abstract.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+   <wallpaper deleted="false">
+		<name>Condres Tux</name>
 		<filename>/usr/share/backgrounds/condres/condres_tux.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
