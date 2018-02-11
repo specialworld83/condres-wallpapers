@@ -9,6 +9,13 @@
     <scolor>#000000</scolor>
 	</wallpaper>
     <wallpaper deleted="false">
+		<name>Condres Fractal</name>
+		<filename>/usr/share/backgrounds/condres/condres_fractal.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
 		<name>Abstract night</name>
 		<filename>/usr/share/backgrounds/condres/abstract_nigth.png</filename>
 		<options>zoom</options>
